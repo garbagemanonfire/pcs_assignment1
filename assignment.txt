@@ -1,0 +1,6 @@
+Hello David, looking forward to working with you.
+
+-make repository and add file to pcs_assignment1 send to David.
+-create a javascript file (variables.js) that creates some variables (at least 1 string, and a number), assigns some values, creates a complex expression, 
+runs an operation, give output via console.log (i.e. console.log FullName), put it into PCS_Assignment_1 repo
+-email dmanning@portlandcodeschool.com (so he can add us to Github account)
