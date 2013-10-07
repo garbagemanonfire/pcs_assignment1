@@ -1,13 +1,17 @@
 var productName;
+var productCount;
 var currentPrice;
 var totalCost;
 var productTax;
+var cashierSays
 
 productName = "cookies";
+productCount = 2;
 currentPrice = 3;
-productTax = currentPrice * .07;
+productTax = productCount * currentPrice * .07;
 totalCost = currentPrice + productTax;
-console.log("Your " + productName + " cost $" + totalCost);
+cashierSays = "Your " + productName + " cost $" + totalCost;
+console.log(cashierSays);
 
 // create a javascript file (variables.js) that 
 // creates some variables 
