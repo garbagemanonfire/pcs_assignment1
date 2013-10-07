@@ -21,3 +21,10 @@ console.log(cashierSays);
 // runs an operation, 
 // give output via console.log (i.e. console.log FullName), 
 // put it into PCS_Assignment_1 repo
+
+/*
+dlmanning comments:
+
+Terrific work! I like that you tied to requirements together into a cohesive theme.
+
+*/
